@@ -25,6 +25,7 @@ public class Main {
         panel.setIzqueirda(botonesIzquierda);
         panel.setCentro(entrada);
         panel.agregar();
+        ventana.setTitle("Analizador Lexico");
         ventana.setSize(1000, 500);
         ventana.setLocationRelativeTo(null);
         ventana.setDefaultCloseOperation(EXIT_ON_CLOSE);
