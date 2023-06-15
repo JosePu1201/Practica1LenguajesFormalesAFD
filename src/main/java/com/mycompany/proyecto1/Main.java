@@ -17,20 +17,20 @@ import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
  */
 public class Main {
 
-    public static void main(String[] args) {
-        JFrame ventana = new JFrame();
-        panelPrincipal panel = new panelPrincipal();
-        Izquierda botonesIzquierda = new Izquierda(panel);
-        TextoEntrada entrada = new TextoEntrada(panel);
-        panel.setIzqueirda(botonesIzquierda);
-        panel.setCentro(entrada);
-        panel.agregar();
-        ventana.setTitle("Analizador Lexico");
-        ventana.setSize(1000, 500);
-        ventana.setLocationRelativeTo(null);
-        ventana.setDefaultCloseOperation(EXIT_ON_CLOSE);
-        ventana.add(panel);
-        ventana.setVisible(true);
+	public static void main(String[] args) {
+	JFrame ventana = new JFrame();
+	panelPrincipal panel = new panelPrincipal();
+	Izquierda botonesIzquierda = new Izquierda(panel);
+	TextoEntrada entrada = new TextoEntrada(panel);
+	panel.setIzqueirda(botonesIzquierda);
+	panel.setCentro(entrada);
+	panel.agregar();
+	ventana.setTitle("Analizador Lexico");
+	ventana.setSize(1000, 500);
+	ventana.setLocationRelativeTo(null);
+	ventana.setDefaultCloseOperation(EXIT_ON_CLOSE);
+	ventana.add(panel);
+	ventana.setVisible(true);
 
-    }
+	}
 }

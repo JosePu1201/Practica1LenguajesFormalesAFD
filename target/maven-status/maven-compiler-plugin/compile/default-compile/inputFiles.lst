@@ -1,16 +1,16 @@
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/Izquierda.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/Token.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/RecuperarErrores.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/Derecha.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/Guardar.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/Estados.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Main.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/RErrores.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/Reportes.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/ReporteError.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/TextoEntrada.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/LeerLineas.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/Patron.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/Error.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/NumeroLinea.java
-/home/jose/Escritorio/Ingenieria en Sistemas/4to Semestre/LENGUAJES/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/panelPrincipal.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/NumeroLinea.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/Izquierda.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Main.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/Token.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/Reportes.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/TextoEntrada.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/LeerLineas.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/Guardar.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/panelPrincipal.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/Derecha.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/RErrores.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/ReporteError.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Menu/Patron.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/RecuperarErrores.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/Estados.java
+/home/jose/Documentos/Practica1/Proyecto1/src/main/java/com/mycompany/proyecto1/Analisis/Error.java
